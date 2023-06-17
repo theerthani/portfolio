@@ -14,9 +14,6 @@ weight: 301
 
 ### Description
 
--  packaged, built, and deployed a static web application using Docker. Along the way, also learnt the essential concepts and commands about Docker containers, had hands-on experience for building and containerizing our own applications.
-   
-- Emerge as someone who knows how to use Docker and build containerized applications.
-- Deep-dive to get your hands dirty with Docker command-line.
-- Get started with Docker containers & related concepts
-
+-  we researched about various cloud forensic models which uses machine learning.
+-  we analysed all the models and gave a conclusion on the mostly used machine learning models
+-  we also reviewed the traditional and cloud forensics
