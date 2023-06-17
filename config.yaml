@@ -1,6 +1,6 @@
 baseURL: "https://theerthanimalluri.netlify.app/"
 languageCode: en-us
-title: Abdur Rahman
+title: Theerthani Malluri
 theme: PaperMod
 
 menu:
@@ -48,14 +48,14 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: "Hi 👋, I'm Abdur, an [**MSc in Applied Computing**](https://mscac.utoronto.ca/) student at the **University of Toronto**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an AWS Certified Solutions Architect. Along with my grad studies, I've been working as a **DevOps Intern** at [**16Bit.ai**](https://www.16bit.ai), a MedTech startup based in Toronto 🇨🇦. Before joining the MScAC program, I worked as a **Backend Engineer** at [**BuyerAssist.io**](https://buyerassist.io/), a B2B SaaS startup based in India 🇮🇳. When I'm free, I make YouTube 🎬 videos on career, higher education & productivity"
+    title: "Theerthani Malluri"
+    subtitle: "Hello, I'm Theerthani Malluri, a fourth-year student at Vellore Institute of Technology in Vellore. I am enthusiastic about using technology to generate good change and build unique solutions, and I have a strong problem-solving talent. Throughout my academic career, I have built a solid foundation in web development, as well as coding, and data structures. I thrive in demanding workplaces that demand critical thinking and I appreciate working together to solve complicated challenges. Aside from my technical ability, I have good communication and interpersonal skills, allowing me to work well with cross-functional teams. I'm actively looking for possibilities where I can use my problem-solving talents and enthusiasm for technology to make a difference."
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
-    # buttons:
-    #   - name: Resume
-    #     url: ""
+    buttons:
+      - name: Resume
+        url: ""
 
   # List View
   hideDescriptionInList: false
@@ -67,15 +67,15 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:contact@theerthanimalluri.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/reddy-theerthani-malluri-9819aa204"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
-    - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://github.com/theerthani"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
+    # - name: "cv"
+    #   url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
 
   # text search
   fuseOpts:
