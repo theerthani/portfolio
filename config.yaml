@@ -24,11 +24,11 @@ menu:
     - identifier: search
       name: Search
       url: /search
-      weight: 50
+      weight: 60
     - identifier: publications
       name: Publications
       url: /publications
-      weight: 60
+      weight: 50
     # - identifier: notes
     #   name: Notes
     #   url: https://notes.arkalim.org
