@@ -16,7 +16,7 @@ https://coursera.org/share/53b33d848c627ed1af14914961c69bdf
 
 -  packaged, built, and deployed a static web application using Docker. Along the way, also learnt the essential concepts and commands about Docker containers, had hands-on experience for building and containerizing our own applications.
    
-- Emerge as someone who knows how to use Docker and build containerized applications.
-- Deep-dive to get your hands dirty with Docker command-line.
-- Get started with Docker containers & related concepts
+- learnt about how to use Docker and build containerized applications.
+- learnt about docker command-line and related concepts.
+
 
