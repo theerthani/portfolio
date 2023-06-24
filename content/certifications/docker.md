@@ -7,7 +7,6 @@ showToc: false
 weight: 301
 --- 
 
-https://coursera.org/share/53b33d848c627ed1af14914961c69bdf
 
 # [Click here to view the Certificate](/certifications/docker/docker-cert.pdf)
 
