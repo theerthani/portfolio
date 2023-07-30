@@ -6,7 +6,7 @@ draft: false
 #tags: ["git", "DVA", "Certification", "Developer", "Developer Associate"]
 weight: 101
 cover:
-    image: "/blog/projects/vue/vue.png"
+    image: "/blog/vue/vue.jpg"
 ---
 
 <!-- # Credentials
