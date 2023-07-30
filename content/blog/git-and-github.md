@@ -79,11 +79,11 @@ How do we get this folder where all this history is being saved?
 
 Command: "git init" (Initializing an empty git repository)
 
-![img2](\blog\git-and-github\img2.jpg)
+![img2](/blog/git-and-github/img2.jpg)
 
 First, we created an empty folder called project on the desktop and we changed the directory into it with the "cd" command. The "ls" command lists all the files in the project folder which is currently empty. To initialize an empty git repository we used the "git init" command. And since ".git" is a hidden file we have to use the "ls -al" command. And we can see ".git/" is created.
 
-![img3](\blog\git-and-github\img3.jpg)
+![img3](/blog/git-and-github/img3.jpg)
 
 And when we "ls" into the ".git" file you can see HEAD, config, description etc..which we'll be going through it shortly in this series. And don't worry about the (master) for now. Now you'll be able to maintain the history of the project. Any change made in this project now Git will pick it up.
 
@@ -97,7 +97,7 @@ How do you know what changes have been made to the project that are not currentl
 
 Command: "git status" (changes that are not currently maintained in the history of the project)
 
-![img4](\blog\git-and-github\img4.jpg)
+![img4](/blog/git-and-github/img4.jpg)
 
 Here this command is saying that someone has added the "fnames.txt" file and it is currently untracked. For example, If you share this project on GitHub no one knows that fnames.txt was added by you at this respective time.
 
@@ -111,7 +111,7 @@ The Guests whose photo has not been taken yet can be related to untracked files 
 
 Command: "git add ." or "git add filename" (everything in the current project directory that's untracked or currently not having its history, puts all those files in the staging area.)
 
-![img5](\blog\git-and-github\img5.jpg)
+![img5](/blog/git-and-github/img5.jpg)
 
 we can also write the individual names of the files --> "git add fnames.txt".
 
@@ -119,7 +119,7 @@ How do we save these files to the Git repository?
 
 Command: git commit -m "some msg here" ( -m is the message that you can add like "fnames.txt file is added".)
 
-![img6](\blog\git-and-github\img6.jpg)
+![img6](/blog/git-and-github/img6.jpg)
 
 Here we added the file to the git repository and in the next command, we are checking if any other changes are made and are not saved in the repository. Here we made no changes other than creating a file so it shows that there's nothing to commit, and the working tree is clean.
 
@@ -127,38 +127,38 @@ How do you remove a file from the git repository?
 
 command: git restore --staged "filename" (to remove a file from the git repository)
 
-![img7](\blog\git-and-github\img7.jpg)
+![img7](/blog/git-and-github/img7.jpg)
 
 Here we added some text into the fnames.txt file and we checked the git status it shows fnames.txt in red colour which means it is not added to the git repository so we add it to the git repository with the command "git add ." And we removed a file from the git repository using the "git restore --staged fnames.txt" command. Now it again shows fname.txt in red colour.
 
-![img8](\blog\git-and-github\img8.jpg)
+![img8](/blog/git-and-github/img8.jpg)
 
 Again here we added the file to the git repository and we commit the file by using the git commit -m command we can see 1 file is changed and 3 insertions were made.
 
 Now, how do you see the entire history of the project?
 
 command: git log (shows the entire history of the project)
-![img9](\blog\git-and-github\img9.jpg)
+![img9](/blog/git-and-github/img9.jpg)
 
 Now let's make some more changes and commit them to the git repository.
 
-![img10](\blog\git-and-github\img10.jpg)
+![img10](/blog/git-and-github/img10.jpg)
 
 Here we deleted the fnames.txt file and then commit the change to the git repository. Now let's take a look at the git log again.
 
-![img11](\blog\git-and-github\img11.jpg)
+![img11](/blog/git-and-github/img11.jpg)
 
 It is updated. Now imagine you did it by mistake and you want to remove that commit. How would you do that?
 
 You can't just remove a particular commit from the middle of the log, it has a hash id, and each commit is built on top of the other. If you want to remove the top two commits copy the hash id of the commit just below them, whatever commit you copy, all the above commits will be removed.
 
-![img12](\blog\git-and-github\img12.jpg)
+![img12](/blog/git-and-github/img12.jpg)
 
 Here we can see that there's only one log in the git log, and the remaining two other commits that are on top of the existing commit are removed.
 
 Now, you might be thinking what happened to the files that were modified, or changed in the previous commits? They are now in the unstaged area.
 
-![img13](\blog\git-and-github\img13.jpg)
+![img13](/blog/git-and-github/img13.jpg)
 
 For example, if you don't want to delete these changes right now you can place them in the stash area.
 
@@ -166,11 +166,11 @@ Let's say you are working on a project and you have a few lines of code that you
 
 Command: git stash ( Getting the command to the stashing area)
 
-![img14](\blog\git-and-github\img14.jpg)
+![img14](/blog/git-and-github/img14.jpg)
 
 Let us make some more changes to our project by creating surnames.txt and houses.txt files. We added all of those changes, you can see that in the git status command. Now, let's get all those changes into the stash area.
 
-![img15](\blog\git-and-github\img15.jpg)
+![img15](/blog/git-and-github/img15.jpg)
 
 Now, if you can see we saved all our changes in the stash area, and if we run the git status command we can see the working tree is clean. In the log, we can only see our first commit since we didn't commit those changes, all these changes that we made are saved in the stash area.
 
@@ -178,11 +178,11 @@ Now if you want back all the changes that were saved in the stash, How can you d
 
 Command: git stash pop (brings back all changes to the unstage area)
 
-![img16](\blog\git-and-github\img16.jpg)
+![img16](/blog/git-and-github/img16.jpg)
 
 What if you want to delete all the changes that were saved in the stash area? How would you do it?
 
-![img17](\blog\git-and-github\img17.jpg)
+![img17](/blog/git-and-github/img17.jpg)
 
 So, all those changes that were not committed and were saved in the stash area are now gone and we can't get those back.
 
