@@ -30,7 +30,7 @@ It's like saving the history of your project.
 
 Let's say in open-source, hundreds and thousands of people contribute to a project How do these people share their code? If you want to add some code or some functionality to a project, How can you do that?
 
-You can do it via Git and GitHub...
+You can do it via Git and GitHub....
 
 So, Git and GitHub allow us to maintain a history of your project. Git helps us to know at what particular time which person made which change, where in the project. GitHub is a platform or online website that allows us to host our Git Repositories. A Repository is a folder where all the changes are made. We'll look more into it shortly.
 
