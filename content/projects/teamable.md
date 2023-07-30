@@ -29,7 +29,7 @@ cover:
 9. Preparing deployment server for Teamable app
 10. Deploy Teamable V1 on the server
 
-# Background Story
+# Back Story
 
 My main goal was to learn and grow as a developer. Developing a web application using Agile Scrum allowed me to gain hands-on experience with industry-standard development methodologies, making the learning process more structured and effective. The idea of creating an application to manage employees resonated with me as it had real-world significance. Employee management is a crucial aspect of any company's operations, and by building this tool, I saw the potential to make a positive impact on businesses and their employees.
 I was keen on understanding how Agile Scrum worked in practice. By using this methodology for the project, I aimed to experience its benefits first-hand, such as improved collaboration, adaptability to changing requirements, and the incremental delivery of features.
