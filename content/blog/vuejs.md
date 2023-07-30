@@ -2,7 +2,7 @@
 title: "Unveiling the Agile Scrum Evolution: A Journey to Streamlined Development"
 description: "Explore the origins and principles of Agile and Scrum methodologies, tracing their evolution from software development to becoming the cornerstones of streamlined project management in the tech industry."
 dateString: July 2023
-draft: false
+draft: true
 #tags: ["git", "DVA", "Certification", "Developer", "Developer Associate"]
 weight: 101
 cover:
@@ -16,12 +16,13 @@ cover:
 
 ### 🎬 [YouTube Video](https://youtu.be/x88k9fuEDuE) -->
 
-# Introduction
+# What are JS Frameworks and why they are useful?
+ 
+ When you heard the word JS frameworks, you might be wondering What is a JavaScript framework exactly? Why do we need it? Why cant we use JavaScript. Basically we use Javascript to access the elements, to add new elements to the html structure and so on. But it was on a very low level, meaning we have to use the document object and go through the whole structure and find the id, or so on.. we have to remember the id making it very inefficient. When we are developing any complex project, it would be difficult and much work to bild complex UI. Code will become complex, repetitive and hard to maintain.
 
-To understand the Agile Methodology, lets first understand the Software Development Lifecycle(SDLC). In this blog we're gonna learn about all the roles in IT team, responsibilities of these roles. 
-How projects were developed before and after agile.
-Know the Online Tools for implementing Scrum in our project
+Various developers developed programs using vanilla JS itself that make working with javascript easier. They developed concepts and rules for structuring JS code.  
+It makes easier to manage to code. The program abstracts away the complexity e.g. for working with HTML. We can use these programs to write your application more easily and faster. And these programs are JS frameworks, they give us a framework(concepts, rules and ready-made components or solutions) for writing JS applications. Overtime many frameworks have been developed but few of them has become most popular 
+
 
 # What are Software Development Workflows
 
-In a project team, we don't only have Software developers, we also have other roles which are equally important in the development process. Here are the brief tasks and responsibilities of all the roles in a project team.
