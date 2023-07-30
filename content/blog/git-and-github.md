@@ -111,7 +111,8 @@ The Guests whose photo has not been taken yet can be related to untracked files 
 
 Command: "git add ." or "git add filename" (everything in the current project directory that's untracked or currently not having its history, puts all those files in the staging area.)
 
-![img5](\blog\git-and-github\img5.jpg)
+
+image: "\blog\git-and-github\img5.jpg"
 
 we can also write the individual names of the files --> "git add fnames.txt".
 
