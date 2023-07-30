@@ -38,6 +38,8 @@ In addition to the before mentioned reasons, another significant motivation behi
 
 # Setting up a Jira Board for scrum project
 
+![img1](/projects/teamable/img3.jpg)
+
 # Develop the 1st version of Teamable app using HTML, CSS and vanilla JavaScript
 
 ![img1](/projects/teamable/img1.jpg)
