@@ -4,7 +4,7 @@ description: "Explore the origins and principles of Agile and Scrum methodologie
 dateString: June 2023
 draft: false
 #tags: ["git", "DVA", "Certification", "Developer", "Developer Associate"]
-weight: 102
+weight: 101
 cover:
     image: "/blog/agile/agile-scrum img.jpg"
 ---
