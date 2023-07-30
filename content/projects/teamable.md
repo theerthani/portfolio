@@ -40,9 +40,9 @@ In addition to the before mentioned reasons, another significant motivation behi
 
 # Develop the 1st version of Teamable app using HTML, CSS and vanilla JavaScript
 
-![img1](/projects/teamable/1.jpg)
+![img1](/projects/teamable/img1.jpg)
 
-![img2](/projects/teamable/2.jpg)
+![img2](/projects/teamable/img2.jpg)
 
 
 
