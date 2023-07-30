@@ -68,7 +68,7 @@ GitHub—> A Website to host your repositories online.
 
 To download Git go to https://git-scm.com/downloads and download Git for the respective OS. Go to the command line, type git and press enter. If you get some list as shown in the below figure then Git is correctly installed in your system.
 
-![img1](\blog\git-and-github\img1.jpg)
+![img1](/blog/git-and-github/img1.jpg)
  
 # Initializing a Git Repository
 
