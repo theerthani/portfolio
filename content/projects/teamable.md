@@ -46,6 +46,10 @@ In addition to the before mentioned reasons, another significant motivation behi
 
 ![img2](/projects/teamable/img2.jpg)
 
+# Replace vanilla JavaScript of the Teamable app with Vue.js
+
+
+
 
 
 
