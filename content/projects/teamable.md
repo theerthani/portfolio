@@ -36,6 +36,18 @@ I was keen on understanding how Agile Scrum worked in practice. By using this me
 
 In addition to the before mentioned reasons, another significant motivation behind undertaking this project was the desire to gain a comprehensive understanding of the various roles within an IT team. By taking on the responsibilities of the product owner, software developer, tester, and systems administrator, I gained the ability to pivot seamlessly between tasks, troubleshoot issues efficiently, and optimize the development process.
 
+# Setting up a Jira Board for scrum project
+
+# Develop the 1st version of Teamable app using HTML, CSS and vanilla JavaScript
+
+![img1](/projects/teamable/1.jpg)
+
+![img2](/projects/teamable/2.jpg)
+
+
+
+
+
 
 
 
