@@ -30,7 +30,7 @@ It's like saving the history of your project.
 
 Let's say in open-source, hundreds and thousands of people contribute to a project How do these people share their code? If you want to add some code or some functionality to a project, How can you do that?
 
-You can do it via Git and GitHub....
+You can do it via Git and GitHub...
 
 So, Git and GitHub allow us to maintain a history of your project. Git helps us to know at what particular time which person made which change, where in the project. GitHub is a platform or online website that allows us to host our Git Repositories. A Repository is a folder where all the changes are made. We'll look more into it shortly.
 
@@ -111,8 +111,7 @@ The Guests whose photo has not been taken yet can be related to untracked files 
 
 Command: "git add ." or "git add filename" (everything in the current project directory that's untracked or currently not having its history, puts all those files in the staging area.)
 
-
-image: "\blog\git-and-github\img5.jpg"
+![img5](\blog\git-and-github\img5.jpg)
 
 we can also write the individual names of the files --> "git add fnames.txt".
 
