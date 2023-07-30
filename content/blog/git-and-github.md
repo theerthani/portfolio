@@ -4,7 +4,7 @@ description: "Mostly used git commands in the dev role"
 dateString: June 2023
 draft: false
 #tags: ["git", "DVA", "Certification", "Developer", "Developer Associate"]
-weight: 101
+weight: 102
 cover:
     image: "/blog/git-and-github/cover.jpg"
 ---
