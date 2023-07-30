@@ -6,7 +6,7 @@ draft: false
 #tags: ["git", "DVA", "Certification", "Developer", "Developer Associate"]
 weight: 102
 cover:
-    image: "static/projects/teamable/teamable-front.jpg"
+    image: "/projects/teamable/teamable-front.jpg"
 ---
 
 <!-- # Credentials
